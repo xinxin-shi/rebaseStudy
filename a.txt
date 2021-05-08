@@ -2,3 +2,4 @@ This is used for rbase test.
 Add 2 commit for a.txt.
 Add 3 commit for a.txt.
 Add 4 commit for a.txt.
+Add 7 commit for a.txt.
